@@ -187,7 +187,7 @@ You can get the QGEval dataset at [data/scores.xlsx](./data/scores.xlsx).
    ```
 More details about the codes for automatic metrics are in [metrics/readme](./metrics/README.md).
 
-## Citation <a name="citation"></a>
+## Citation <a name="citation"></a> 🥇
 Please cite:
 ```python
 @misc{fu2024qgevalbenchmarkingmultidimensionalevaluation,
